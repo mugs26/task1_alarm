@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">task1</string>
+    <string name="_00_00">00:00</string>
+    <string name="start">START</string>
+    <string name="reset">RESET</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="pause">Pause</string>
+    <string name="Start">Start</string>
+    <string name="Reset">Reset</string>
+    <string name="save_lap">Save Lap</string>
+    <string name="my_alarm">MY ALARM</string>
+    <string name="set_alarm">SET ALARM</string>
+    <string name="timer">TIMER</string>
+    <string name="stopwatch">STOPWATCH</string>
+    <string name="weeklyalm">WEEKLY ALARM</string>
+    <string name="home">BACK2</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="back">BACK</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="monday">Monday</string>
+    <string name="sunday">Sunday</string>
+    <string name="alarm">Set Alarm</string>
+    <string name="reset_alarm">Reset Alarm</string>
+    <string name="cancel">CANCEL</string>
+    <string name="alarm_not_set">Alarm not set</string>
+
+    <string name="Cancel">Cancel</string>
+
+    <string name="resume">Resume</string>
+</resources>
